@@ -1,0 +1,21 @@
+{
+  "project_name": "Research Agent using IBM Granite",
+  "description": "AI-powered Research Agent for literature review, research gap identification, and report generation.",
+  "technologies": [
+    "LangFlow",
+    "IBM watsonx.ai",
+    "IBM Granite Models",
+    "IBM Cloud",
+    "RAG"
+  ]
+}{
+  "project_name": "Research Agent using IBM Granite",
+  "description": "AI-powered Research Agent for literature review, research gap identification, and report generation.",
+  "technologies": [
+    "LangFlow",
+    "IBM watsonx.ai",
+    "IBM Granite Models",
+    "IBM Cloud",
+    "RAG"
+  ]
+}
