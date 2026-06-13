@@ -1,0 +1,23 @@
+Problem Statement: Research Agent using IBM Granite
+
+The Challenge:
+A Research Agent is an AI system designed to assist with academic and scientific research tasks. It can autonomously search for literature, summarize papers, and organize references using natural language processing.
+
+The Objective:
+To build an AI-powered Research Agent that automates literature review, summarizes research papers, identifies research gaps, and generates structured research reports.
+
+Key Features:
+- Literature Summary Generation
+- Key Findings Extraction
+- Research Gap Identification
+- Future Research Recommendations
+- Automated Research Report Creation
+
+The system uses:
+- LangFlow for workflow orchestration
+- IBM watsonx.ai for model execution
+- IBM Granite Models for reasoning and summarization
+- RAG for retrieval-based knowledge enhancement
+
+Outcome:
+A smart AI research assistant that helps students and researchers speed up academic work with accurate and structured insights.
